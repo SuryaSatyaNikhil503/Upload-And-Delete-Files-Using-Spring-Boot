@@ -1,4 +1,4 @@
-package com.bezkoder.spring.thymeleaf.file.upload.exception;
+package com.Nikhil.spring.thymeleaf.file.upload.exception;
 
 import org.springframework.web.multipart.MaxUploadSizeExceededException;
 

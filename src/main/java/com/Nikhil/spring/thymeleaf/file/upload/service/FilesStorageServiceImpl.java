@@ -1,4 +1,4 @@
-package com.bezkoder.spring.thymeleaf.file.upload.service;
+package com.Nikhil.spring.thymeleaf.file.upload.service;
 
 import java.io.IOException;
 import java.net.MalformedURLException;

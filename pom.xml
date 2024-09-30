@@ -15,7 +15,7 @@
 	<name>thymeleaf-file-upload</name>
 	<description>Thymeleaf File Upload in Spring Boot example</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>17.0.1</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

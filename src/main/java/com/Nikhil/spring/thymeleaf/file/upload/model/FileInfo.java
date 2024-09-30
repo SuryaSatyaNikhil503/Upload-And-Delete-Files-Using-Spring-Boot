@@ -1,4 +1,4 @@
-package com.bezkoder.spring.thymeleaf.file.upload.model;
+package com.Nikhil.spring.thymeleaf.file.upload.model;
 
 public class FileInfo {
   

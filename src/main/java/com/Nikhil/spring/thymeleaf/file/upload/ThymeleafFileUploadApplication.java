@@ -1,4 +1,4 @@
-package com.bezkoder.spring.thymeleaf.file.upload;
+package com.Nikhil.spring.thymeleaf.file.upload;
 
 import javax.annotation.Resource;
 
@@ -6,7 +6,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.bezkoder.spring.thymeleaf.file.upload.service.FilesStorageService;
+import com.Nikhil.spring.thymeleaf.file.upload.service.FilesStorageService;
 
 @SpringBootApplication
 public class ThymeleafFileUploadApplication implements CommandLineRunner {
